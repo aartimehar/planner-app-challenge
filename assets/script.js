@@ -33,16 +33,16 @@ function addTimeBlocks () {
     if (!previousValue) previousValue = ''
 
     timeblockContainer.append(
-      `<div class="row row-cols-3 border">
-        <div class="col-2 border-right">
+      `<div class="row row-cols-3 border ">
+        <div class="col-2 border-right text-center ">
             ${hour}:00
         </div>
         <textarea id=${
           'ta' + hour
-        } class="form-control text-light col-8 border-right ${bgColor}">${previousValue}</textarea>
-        <div class="col-2">
-            <button class="btn btn-primary" type="submit" onClick='onEventSave(${hour})'>Save
-            <i class="fas fa-save width="100" height="100""></i>
+        } class="form-control text-light col-8 border-right  ${bgColor}">${previousValue}</textarea>
+        <div class="col-2 ">
+            <button type ="button" class="btn btn-warning btn-lg btn-block " onClick='onEventSave(${hour})'>Save
+            <i class="fas fa-save width="400" height="400""></i>
             </button>
         </div>
     </div>`
