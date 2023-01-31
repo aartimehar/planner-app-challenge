@@ -13,6 +13,9 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
+## Deployed Live URL
+
+https://aartimehar.github.io/planner-app-challenge/
 
 ## Acceptance Criteria
 
@@ -30,58 +33,27 @@ The app should:
 
 * Persist events between refreshes of a page
 
-The following animation demonstrates the application functionality:
+## Screencapture
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./images/05-third-party-apis-homework-demo.gif)
+![screencapture-file-C-Users-aarti-bootcamp2-Planner-App-Assignment-planner-app-challenge-index-html-2023-01-31-22_51_30](https://user-images.githubusercontent.com/113493756/215901569-f24d74a6-53ca-4c67-a47f-3dc3ecd1f53c.png)
 
+## Installation
 
-## Grading Requirements
+None
 
-This homework is graded based on the following criteria: 
+## Usage
 
-### Technical Acceptance Criteria: 40%
+A planning scheduler website can be useful because it provides a centralized platform for individuals and teams to organize, prioritize, and schedule tasks and events. This can increase efficiency, reduce the likelihood of scheduling conflicts, and help ensure that deadlines are met. Additionally, many planning scheduler websites offer features such as email notifications, task delegations, and collaboration tools, making it easier to coordinate with others and keep track of progress.
 
-* Satisfies all of the above acceptance criteria plus the following:
+## Credits
+Thank you to thr whole team of bootcampspot for organising the front-end development and UI course. I as a learner appreciate the efforts of bootcamp spot for providing stunning learning materials to excel during this bootcamp.
 
-  * Uses a date utility library to work with date and time
+### Live URL
 
-### Deployment: 32%
+https://aartimehar.github.io/planner-app-challenge/
 
-* Application deployed at live URL
+## URL of the GitHub repository
 
-* Application loads with no errors
-
-* Application GitHub URL submitted
-
-* GitHub repo contains application code
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate
-
-* Application user interface style is clean and polished
-
-* Application resembles the mock-up functionality provided in the homework instructions
-
-### Repository Quality: 13%
-
-* Repository has a unique name
-
-* Repository follows best practices for file structure and naming conventions
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
+https://github.com/aartimehar/planner-app-challenge
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
