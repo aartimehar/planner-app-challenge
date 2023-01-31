@@ -50,8 +50,8 @@ Thank you to thr whole team of bootcampspot for organising the front-end develop
 
 ## Github URL
 
-[https://aartimehar.github.io/planner-app-challenge/](https://github.com/aartimehar/planner-app-challenge
----)
+https://aartimehar.github.io/planner-app-challenge/](https://github.com/aartimehar/planner-app-challenge
+
 
 
 
