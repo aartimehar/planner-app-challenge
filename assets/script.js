@@ -41,7 +41,9 @@ function addTimeBlocks () {
           'ta' + hour
         } class="form-control text-light col-8 border-right ${bgColor}">${previousValue}</textarea>
         <div class="col-2">
-            <button class="btn btn-primary" type="submit" onClick='onEventSave(${hour})'>Save</button>
+            <button class="btn btn-primary" type="submit" onClick='onEventSave(${hour})'>Save
+            <i class="fas fa-save width="100" height="100""></i>
+            </button>
         </div>
     </div>`
     )
