@@ -48,7 +48,7 @@ A planning scheduler website can be useful because it provides a centralized pla
 ## Credits
 Thank you to thr whole team of bootcampspot for organising the front-end development and UI course. I as a learner appreciate the efforts of bootcamp spot for providing stunning learning materials to excel during this bootcamp.
 
-### Live URL
+## Live URL
 
 https://aartimehar.github.io/planner-app-challenge/
 
